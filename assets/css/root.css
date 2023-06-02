@@ -1,0 +1,106 @@
+:root {
+    --fs-xsm: 16px;
+    --fs-sm: 17px;
+    --fs-md: 18px;
+    --fs-xl: 19px;
+    --fs-1xl: 20px;
+    --fs-2xl: 21px;
+    --fs-3xl: 22px;
+    --fs-4xl: 24px;
+    --fs-4-5xl: 26px;
+    --fs-5xl: 36px;
+    --fs-6xl: 48px;
+    /* colors */
+    --color-sky-blue: #458ff6;
+    --color-pure-white: #ffffff;
+    --color-medium-black: #233348;
+    --color-midnight-black: #1f1534;
+    --color-light-grey: #8e8999;
+    --color-normal-grey: #7d7987;
+    --color-dark-black: #000000;
+    /* bg-colors */
+    --bg-sky-blue: #458ff6;
+    --bg-pure-white: #ffffff;
+}
+
+.fs_xsm {
+    font-size: var(--fs-xsm);
+}
+
+.fs_sm {
+    font-size: var(--fs-sm);
+}
+
+.fs_md {
+    font-size: var(--fs-md);
+}
+
+.fs_xl {
+    font-size: var(--fs-xl);
+}
+
+.fs_1xl {
+    font-size: var(--fs-1xl);
+}
+
+.fs_2xl {
+    font-size: var(--fs-2xl);
+}
+
+.fs_3xl {
+    font-size: var(--fs-3xl);
+}
+
+.fs_4xl {
+    font-size: var(--fs-4xl);
+}
+
+.fs_4-5xl {
+    font-size: var(--fs-4-5xl);
+}
+
+.fs_5xl {
+    font-size: var(--fs-5xl);
+}
+
+.fs_6xl {
+    font-size: var(--fs-6xl);
+}
+
+/* colors */
+.sky_blue {
+    color: var(--color-sky-blue);
+}
+
+.white {
+    color: var(--color-pure-white);
+}
+
+.midnight_black {
+    color: var(--color-midnight-black);
+}
+
+.medium_black {
+    color: var(--color-medium-black);
+}
+
+.light_grey {
+    color: var(--color-light-grey);
+}
+
+.normal_grey {
+    color: var(--color-normal-grey);
+}
+
+.black {
+    color: var(--color-dark-black);
+}
+
+/* bg_color */
+.bg_sky-blue {
+    background-color: var(--bg-sky-blue);
+}
+
+.bg_white {
+    background-color: var(--bg-pure-white);
+}
